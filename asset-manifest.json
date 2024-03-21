@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-rock-pager-scissors/static/css/main.b94ca80f.css",
+    "main.js": "/react-rock-pager-scissors/static/js/main.5ad83736.js",
+    "static/js/453.fcd006fd.chunk.js": "/react-rock-pager-scissors/static/js/453.fcd006fd.chunk.js",
+    "static/media/BG.png": "/react-rock-pager-scissors/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/react-rock-pager-scissors/index.html",
+    "main.b94ca80f.css.map": "/react-rock-pager-scissors/static/css/main.b94ca80f.css.map",
+    "main.5ad83736.js.map": "/react-rock-pager-scissors/static/js/main.5ad83736.js.map",
+    "453.fcd006fd.chunk.js.map": "/react-rock-pager-scissors/static/js/453.fcd006fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94ca80f.css",
+    "static/js/main.5ad83736.js"
+  ]
+}
